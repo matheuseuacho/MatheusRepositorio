@@ -1,1 +1,20 @@
 theme: jekyll-theme-slate
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF=8"/>
+
+<title>Mirror Tecnologia.</title>
+</head>
+<body>
+<h1>Mirror Tecnologia</h1>
+
+<h2>Bem-vindo à Mirror Tecnologia, sua loja de informática e acessórios.</h2>
+
+<p>Confira nossas <b><font size='5'>promoções</font></b>.</p>
+<p>Receba informações sobre nossos lançamentos por <i>email</i>.</p>
+<p>Navegue por todos nossos produtos em <i>catálogo</i>.</p>
+<p>Compre <b><font size='5'>sem sair de casa</font></b>.</p>
+<!-- ta perdendo tempo-->
+</body>
+</html>
