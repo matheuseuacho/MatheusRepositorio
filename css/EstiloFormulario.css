@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+#nootbook {
+    height: 80px;
+    width: auto;
+
+}
+#tablet {
+    height: 50px;
+    width: auto;
+}
+#smartphone {
+    height: 50px;
+    width: auto;
+}
